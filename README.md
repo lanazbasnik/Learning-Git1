@@ -1,2 +1,2 @@
-# Learning-Git https://github.com/lanazbasnik/Learning-Git
+# Learning-Git 
   This is my first repo!
